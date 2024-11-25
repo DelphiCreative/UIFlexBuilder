@@ -9,5 +9,3 @@
 ## Contato  
 Para dúvidas, sugestões ou para adquirir a **UIFlexBuilder**, entre em contato pelo e-mail:  
 **[diegocataneo@outlook.com](mailto:diegocataneo@outlook.com)**  
-
-**Atenção:** Esta biblioteca não é gratuita. Entre em contato para mais informações.  
