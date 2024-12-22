@@ -1,0 +1,66 @@
+# Compiled binary files
+*.exe
+*.dll
+*.bpl
+*.dcu
+*.dcp
+*.rsm
+*.map
+*.ocx
+*.tlb
+*.lib
+
+# Backup files
+*.~*
+*.bak
+*.orig
+
+# Configuration and temporary files
+*.local
+*.dsk
+*.identcache
+*.tvsconfig
+*.tvsstate
+*.groupproj.local
+*.remoteproj
+*.dproj.local
+*.dproj.bak
+*.dproj.bak.*
+
+# Debugging and intermediate files
+*.il?
+*.tus
+*.tmp
+*.log
+
+# Build directories
+__history/
+__recovery/
+Win32/Debug/
+Win32/Release/
+Win64/Debug/
+Win64/Release/
+Linux64/Debug/
+Linux64/Release/
+macOS64/Debug/
+macOS64/Release/
+Android/Debug/
+Android/Release/
+iOSDevice64/Debug/
+iOSDevice64/Release/
+
+# Generated files from FMX or VCL
+*.groupproj
+*.groupproj.local
+*.identcache
+*.cgr
+*.fmx~*
+*.drc
+
+# IDE-specific settings
+*.layout.xml
+*.local
+*.gitattributes
+FMX.UIFlexBuilder.pas
+*.res
+UIFlexBuilder2.style
